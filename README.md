@@ -58,7 +58,7 @@ As a streaming service, by this data, we would recommend setting the launch date
 The last of the 3 charts for question 1 shows the average worldwide gross per 100 million per month. 
 
 ![image info](./png/WWGross_ReleaseMonth.png)
-
+![image_info](./png/DomesticAvg_ReleaseMon.png)
 
 #### Genre and Total Gross
 
